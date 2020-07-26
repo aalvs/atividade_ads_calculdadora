@@ -1,6 +1,6 @@
-# QUESTÃO 01: 
+# ATIVIDADE: 
 
-Para esta Atividade 01, considere que você aluno de ADS, foi convidado para participar de uma seleção de desenvolvedores "Junior" de uma empresa da cidade de Maringá-PR.
+Para esta Atividade, considere que você aluno de ADS, foi convidado para participar de uma seleção de desenvolvedores "Junior" de uma empresa da cidade de Maringá-PR.
 Nesta seleção, você deverá cumprir alguns desafios na forma de desenvolvimento de programas.
 Ao final do programa, você será analisado e, se obtiver sucesso, poderá ser contratado.
 
